@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# FastAPI
+generated/
+uploads/
+
+# Chroma
+db/
+
+# Node
+node_modules/
+.next/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
