@@ -1,10 +1,30 @@
 # DSP Copilot
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-black?logo=next.js)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **RAG-powered AI Copilot for Digital Signal Processing, MATLAB, and LabVIEW**
 
 DSP Copilot is a full-stack AI engineering project that combines **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, and a modern web application to create a domain-specific AI assistant for Digital Signal Processing (DSP), MATLAB, and LabVIEW.
 
 Unlike general-purpose AI assistants, DSP Copilot grounds every response using a curated technical knowledge base built from DSP textbooks, MATLAB documentation, LabVIEW resources, and engineering references.
+
+---
+
+# Preview
+
+| Home                 | AI Chat              |
+| -------------------- | -------------------- |
+| ![](assets/home.png) | ![](assets/chat.png) |
+
+| Streaming Response     | RAG Response        |
+| ---------------------- | ------------------- |
+| ![](assets/streaming.mp4) | ![](assets/rag.png) |
 
 ---
 
@@ -24,7 +44,6 @@ The project demonstrates the implementation of:
 * Markdown Rendering
 * Persistent Chat Sessions
 
----
 
 # Features
 
